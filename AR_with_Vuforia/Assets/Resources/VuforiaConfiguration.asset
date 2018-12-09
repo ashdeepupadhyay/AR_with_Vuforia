@@ -44,9 +44,11 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - AR_with_Vuforia
     - VuforiaMars_Images
     - VuforiaMars_VuMark
     dataSetsToActivate:
+    - AR_with_Vuforia
     - VuforiaMars_Images
     - VuforiaMars_VuMark
   videoBackground:
